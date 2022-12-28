@@ -1,13 +1,8 @@
 //Section arrays
-const beginners = ['https://wolfgame.fyi/starterpacks'];
+const beginners = ['https://wolfgame.fyi/starterpacks', 'https://www.wolfgame.guide/'];
 const numbers = ['https://wolfgame.live/', 'https://www.wolfgame.tools/', 'https://wolfgame.bid/'];
 const wolfgame = ['https://wolfgame.guru/', 'https://wolfland.live/', 'https://wg.metascraper.io/'];
 const fun = ['https://wolfgame.xyz/', 'https://wolfgametimemachine.com/', 'https://wolfgame.wiki/'];
-
-let text = ""
-
-
-//<a href="#" class="w3-button w3-round-xlarge w3-theme-l1 w3-border link" target="_blank">Facebook</a>
 
 window.onload = function(event) {
     document.getElementById("year").innerHTML = new Date().getFullYear();
