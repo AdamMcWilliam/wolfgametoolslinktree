@@ -1,5 +1,5 @@
 //Section arrays
-const beginners = ['https://wolfgame.fyi/starterpacks', 'https://www.wolfgame.guide/', 'https://www.youtube.com/playlist?list=PL7Ygof6kR_DQ7aRV-K0Tg2YhXE2RULbP1','https://www.youtube.com/watch?v=Kbp4DNkmpZo'];
+const beginners = ['https://shepslibrary.com/','https://wolfgame.fyi/starterpacks', 'https://www.wolfgame.guide/', 'https://www.youtube.com/playlist?list=PL7Ygof6kR_DQ7aRV-K0Tg2YhXE2RULbP1','https://www.youtube.com/watch?v=Kbp4DNkmpZo'];
 const numbers = ['https://wolfgame.live/', 'https://www.wolfgame.tools/', 'https://wolfgame.bid/', 'https://www.feralflips.com/', 'https://plums.world/'];
 const wolfgame = ['https://wolfgame.guru/', 'https://wolfland.live/', 'https://wg.metascraper.io/', 'https://wolfgame.page', 'https://wgstructures.com/', 'https://wgworld.net/', 'http://wolfgamers.xyz'];
 const fun = ['https://wolfgame.xyz/', 'https://wolfgametimemachine.com/', 'https://wolfgame.wiki/', 'https://wgcustomizer.app/'];
